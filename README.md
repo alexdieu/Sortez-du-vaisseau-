@@ -3,3 +3,5 @@ Sortez du vaisseau est un jeu que j'ai dévellopé en pyhton3 . Pour l'instant ,
 
 ## Modules nécessaires : Aucun
 Tourne sur toutes les machines possédant PYTHON 3
+
+## BIEN SUR LE CODE EST OPEN SOURCE ET SOUMIS A AUCUNE LISCENCE ; MAIS JE NE VOUS AUTORISE QU'A REGARDER LE CODE APRES VOUS ETRE ECHAPPER DU VAISSEAU !
